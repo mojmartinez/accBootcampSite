@@ -140,3 +140,28 @@ button.navbar-toggler{
 #bar button{
     margin-top: 1rem;
 }
+
+/* Team */
+
+#teamMembers{
+    height: 45rem;
+    border-bottom: 2px solid lightgray
+}
+
+#teamMembers h3{
+    margin-top: 2rem;
+    font-weight: 100;
+    font-size: 1.75rem;
+}
+
+.tmID{
+    margin-top: 10rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tmBTN{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6rem;
+}
