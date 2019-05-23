@@ -165,3 +165,27 @@ button.navbar-toggler{
     margin-right: auto;
     margin-top: 6rem;
 }
+
+/* chat page */
+
+.sched{
+    border: 5rem solid #f9d42c;
+    height: 620px;
+    width: 100%;
+}
+
+.sched #stext{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10rem;
+    font-weight: 100;
+}
+
+.sched #stext h1{
+    margin-bottom: 1rem;
+}
+
+.sched #sImg{
+    height: 460px;
+    width:840px;
+}
