@@ -1,0 +1,142 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#header{
+    height: 200px;
+}
+
+#header div{
+    margin: auto;
+    padding-top: .5rem;
+    
+}
+
+#header div p{
+    font-size: 1.5rem;
+    font-weight: 100;
+    padding: .5rem;
+    color: #526ba2;
+}
+
+#navbar{
+ padding: 0;
+ margin: 0;
+}
+
+button.navbar-toggler{
+    margin: auto;
+    border: none;
+    width: 100%;
+}
+
+#navlinks{
+    margin: auto;
+}
+
+#welcome{
+    background-image: url("/imgs/adult-indoors-laptops.jpg");
+    background-size: cover;
+    height: 60rem;
+}
+
+#welcome1{
+    margin: auto;
+    font-weight: 100;  
+    font-size: 6em;
+    margin: auto;
+    margin-top: 20rem;
+}
+
+#welcome1 h6{
+    font-size: 20px;
+}
+
+#about{
+    /* background-color: darkblue; */
+    height: 60rem;
+
+}
+
+#getTouch{
+    height: 45rem;
+    border: 5rem solid #f9d42c;
+}
+
+#img2{
+    margin-top: 8rem;
+    margin-left: 30rem;
+    
+}
+
+#box{
+    background-color: #526ba2;
+    width: 465px;
+    height: 545px;
+    margin-top: -38rem;
+    margin-left: 60rem;
+}
+
+#bh1{
+    max width: 415px;
+    font-weight: 100;
+    font-size: 2.25rem;
+}
+
+#bp1{
+    max width: 415px;
+    font-weight: 100;
+    font-size: 1.5rem;
+
+}
+
+#footer{
+    margin: auto;
+    padding: 1.25rem;
+}
+
+/* Learning Page */
+
+#learning{
+    background-color: #526BA2;
+    height: 98rem;
+    color: White;
+    font-weight: 100;
+    margin: auto;
+}
+
+#text{
+    margin-left: 35rem;
+    margin-right: 35rem;
+    margin-top: 7rem;
+}
+
+#textH{
+    font-size: 2.75rem;
+}
+
+#buttons{
+    padding: 2rem;
+}
+
+#buttons button{
+    margin: 1rem;
+}
+
+#bar{
+    height: 460px;
+    width: 100%;
+    background-color: #f9d42c;
+    color: #464b55 ;
+}
+
+#head{
+    margin-top: 10rem;
+    font-size: 2.5rem;
+    font-weight: 100;
+}
+
+#bar button{
+    margin-top: 1rem;
+}
