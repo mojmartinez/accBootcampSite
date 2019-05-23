@@ -189,3 +189,44 @@ button.navbar-toggler{
     height: 460px;
     width:840px;
 }
+
+/* FAQ */
+
+.faqBar{
+    height: 30rem;
+    background-color: #f9d42c;
+}
+
+.faqBar #ftext{
+    margin-top: 6rem;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 100;
+}
+
+.faqBar #ftext h1{
+    margin-bottom: 1.5rem;
+}
+
+.faqBar #ftext p{
+    font-size: 18px;
+    margin-bottom: 3rem;
+}
+
+#col1{
+    margin-top: 10rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    font-weight: 100;
+}
+
+#col1 .faqItem{
+    margin-bottom: 3rem;
+}
+
+#col1 .faqItem h2{
+    margin-bottom: 1.5rem;
+}
+
+
+
