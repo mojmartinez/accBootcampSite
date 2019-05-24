@@ -36,7 +36,7 @@ button.navbar-toggler{
 }
 
 #welcome{
-    background-image: url("/imgs/adult-indoors-laptops.jpg");
+    background-image: url("https://images.pexels.com/photos/1560932/pexels-photo-1560932.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-size: cover;
     height: 60rem;
 }
@@ -187,7 +187,7 @@ button.navbar-toggler{
 
 .sched #sImg{
     height: 460px;
-    width:840px;
+    width: 840px;
 }
 
 /* FAQ */
@@ -213,14 +213,19 @@ button.navbar-toggler{
     margin-bottom: 3rem;
 }
 
-#col1{
+.faqC{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col{
     margin-top: 10rem;
-    margin-left: 20rem;
-    margin-right: 20rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
     font-weight: 100;
 }
 
-#col1 .faqItem{
+.col .faqItem{
     margin-bottom: 3rem;
 }
 
@@ -228,5 +233,9 @@ button.navbar-toggler{
     margin-bottom: 1.5rem;
 }
 
-
+.faqBTN{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5rem;
+}
 
