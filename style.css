@@ -239,3 +239,55 @@ button.navbar-toggler{
     margin-bottom: 5rem;
 }
 
+/* Test Drive */
+
+#testDrive{
+    border: 5rem solid #f9d42c;
+    height: 45rem;
+}
+
+#tdText{
+    padding: 5rem;
+    font-weight:100;
+}
+
+.tdBTN{
+    margin: .5rem;
+}
+
+.tdvBox{
+    height: 45rem;
+}
+
+.tdVid{
+    margin: auto;
+    margin-top: 5rem;
+}
+
+.signUp{
+    background-color: #526BA2;
+    height: 60rem;
+    color: White;
+    font-weight: 100;
+}
+
+.goText{
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main{
+    font-size: 4rem;
+}
+
+#main + p{
+    font-size: .88rem;
+}
+
+.goBTN{
+    margin-top: 2rem;
+    margin-left:1rem;
+    margin-bottom: 3rem;
+    font-size: 14px;
+}
